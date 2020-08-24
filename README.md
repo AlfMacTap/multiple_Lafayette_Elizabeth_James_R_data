@@ -10,3 +10,4 @@
 > pandas;
 > numpy; and
 > matplotlib.pyplot;
+- The 'Image_summary' file (PDF) is separated by two sections, 1) images showing the main variables and sampling density of a given data set, and 2) images in which one or more data sets are combined. In both cases, a brief description is given to explain the content of the image(s).
